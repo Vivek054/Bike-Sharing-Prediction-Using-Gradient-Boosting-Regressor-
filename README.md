@@ -16,10 +16,10 @@ Consider the "Season" column in that we have 4 unique values as (1,2,3,4) we rep
 
 Consider the "Month" column in that we have 12 unique values as (1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12) we replace these numbers as 'January', 'February', 'March','April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'.
 
-Consider the "Weekday" column in that we have 4 unique values as (0,1,2,3,4,5,6) we replace these numbers as
+Consider the "Weekday" column in that we have 6 unique values as (0,1,2,3,4,5,6) we replace these numbers as
 'Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'.
 
-Consider the "Weather_Sit" column in that we have 4 unique values as (1,2,3) we replace these numbers as 'A','B','C'.
+Consider the "Weather_Sit" column in that we have 3 unique values as (1,2,3) we replace these numbers as 'A','B','C'.
 
 ## Plot representing the Temp and Atemp:
 
